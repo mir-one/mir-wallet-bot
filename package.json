@@ -1,0 +1,16 @@
+{
+  "name": "mir-wallet-bot",
+  "version": "1.0.0",
+  "description": "Mir wallet bot",
+  "main": "app.js",
+  "repository": "https://github.com/mir-one/mir-wallet-bot.git",
+  "author": "Roman Inozemtsev <dao@mir.one>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@waves/waves-api": "1.4",
+    "crypto": "^1.0.1",
+    "mongoose": "5.2.15",
+    "telegraf": "^3.24.0"
+  }
+}
